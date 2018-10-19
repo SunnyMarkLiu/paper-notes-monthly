@@ -5,3 +5,5 @@
 - [Pointer Networks (2015.06)](./notes/pointer-networks.md)
 - [Notes on Deep Learning for NLP (2018.08)](./notes/Notes-on-Deep-Learning-for-NLP.md)
 - [Reasoning about Entailment with Neural Attention (2015.09)](./notes/Reasoning-about-Entailment-with-Neural-Attention.md)
+- [Batch Normalization in Deep Learning](./notes/Batch-Normalization-in-Deep-Learning.md)
+- 
