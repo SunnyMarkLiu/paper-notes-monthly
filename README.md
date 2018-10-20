@@ -6,4 +6,4 @@
 - [Notes on Deep Learning for NLP (2018.08)](./notes/Notes-on-Deep-Learning-for-NLP.md)
 - [Reasoning about Entailment with Neural Attention (2015.09)](./notes/Reasoning-about-Entailment-with-Neural-Attention.md)
 - [Batch Normalization in Deep Learning](./notes/Batch-Normalization-in-Deep-Learning.md)
-- 
+- [How Does Batch Normalization Help Optimization? (2018.05)](./notes/How-Does-Batch-Normalization-Help-Optimization.md)
