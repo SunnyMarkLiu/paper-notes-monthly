@@ -1,5 +1,6 @@
 #### 2018-11
 - [Teaching Machines to Read and Comprehend (**2015.06**)](./notes/Teaching-Machines-to-Read-and-Comprehend.md)
+- [Text Understanding with the Attention Sum Reader Network (**2016.03**)](.notes/Text-Understanding-with-the-Attention-Sum-Reader-Network.md)
 
 #### 2018-10
 - [Tensorflow: The Confusing Parts (1)](./notes/Tensorflow:%20The%20Confusing%20Parts%201.md)
