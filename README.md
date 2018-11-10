@@ -2,6 +2,7 @@
 - [Teaching Machines to Read and Comprehend (**2015.06**)](./notes/Teaching-Machines-to-Read-and-Comprehend.md)
 - [Text Understanding with the Attention Sum Reader Network (**2016.03**)](./notes/Text-Understanding-with-the-Attention-Sum-Reader-Network.md)
 - [A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task (**2016.06**)](./notes/A-Thorough-Examination-of-the-CNN-Daily-Mail-Reading-Comprehension-Task.md)
+- [Machine Comprehension Using Match-LSTM and Answer Pointer (2016.08)](./notes/Machine-Comprehension-Using-Match-LSTM-and-Answer-Pointer.md)
 
 #### 2018-10
 - [Tensorflow: The Confusing Parts (1)](./notes/Tensorflow:%20The%20Confusing%20Parts%201.md)
